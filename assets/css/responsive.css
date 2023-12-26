@@ -297,7 +297,7 @@
 
 
   #preloader {
-    background: #3A3636 url("../img/preloader2.gif") no-repeat center center;
+    /* background: #3A3636 url("../img/preloader2.gif") no-repeat center center; */
     background-size: 100%;
   }
 }
